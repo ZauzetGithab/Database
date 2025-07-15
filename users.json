@@ -1,1 +1,3 @@
-{ "username": "admin", "password": "admin1933" }
+[
+  { "username": "admin", "password": "admin1933", "isAdmin": true }
+]
